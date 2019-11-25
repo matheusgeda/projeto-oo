@@ -4,30 +4,26 @@
 
 #### Sistema de Biblioteca
 
-#### Objetivo: Criar um sistema que gerencie os livros, funcionarios, entre outros de uma biblioteca.
+#### Objetivo: Criar um sistema que permite aos funcionários gerenciarem o funcionamento de uma biblioteca.
 
 #### Funcionalidades:
 
-1ª Adicionar/Remover livro:
+1ª Adicionar Livro:
 
-2ª Pegar livro:
+2ª Remover Livro:
 
-3ª Devolver livro:
+3ª Emprestimo de livro:
 
-4ª Consutar livros disponiveis:
+4ª Devolução de livro:
 
-5ª Consulta de livros por categoria:
+5ª Consulta de livro disponiveis:
 
-6ª Sugestao de livro:
+6ª Consulta personalizada:
 
-7ª Adicionar funcionario:
+7ª Sugestão de livro:
 
-8ª Gerenciar funcionarios:
+8ª Cadastro de clientes:
 
-9ª Demitir funcionario:
+9ª Consulta de clientes:
 
-10ª Login
-
-11ª Sair do programa
-
-
+10ª Login:
