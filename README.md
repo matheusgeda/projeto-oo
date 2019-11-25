@@ -10,17 +10,17 @@
 
 1ª Adicionar Livro:
 
-2ª Remover Livro:
+2ª Emprestimo de livro:
 
-3ª Emprestimo de livro:
+3ª Devolução de livro:
 
-4ª Devolução de livro:
+4ª Consulta de livro disponiveis:
 
-5ª Consulta de livro disponiveis:
+5ª Consulta personalizada:
 
-6ª Consulta personalizada:
+6ª Sugestão de livro:
 
-7ª Sugestão de livro:
+7ª Ler sugestões:
 
 8ª Cadastro de clientes:
 
