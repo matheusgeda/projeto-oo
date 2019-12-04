@@ -3,16 +3,16 @@ package Library;
 import java.util.*;
 
 import static Human.Clients.client_list;
-import static Library.Main.menu_principal;
 import static Library.Utils.clear;
 import static Library.Validate.*;
+import static Menus.Main_Menu.menu_principal;
 
 public class Book
 {
-    String title;
-    String genre;
-    String author;
-    Boolean status; //se for verdadeiro o livro esta disponivel
+    public String title;
+    public String genre;
+    public String author;
+    public Boolean status; //se for verdadeiro o livro esta disponivel
     public static void add_book()
     {
         Scanner sc = new Scanner(System.in);

@@ -4,9 +4,9 @@ import Library.Main;
 
 import java.util.*;
 
-import static Library.Main.menu_principal;
 import static Library.Utils.*;
 import static Library.Validate.*;
+import static Menus.Main_Menu.menu_principal;
 
 public class Workers extends Human {
     private String salary;
@@ -63,7 +63,7 @@ public class Workers extends Human {
             System.out.println(i + " Nome: " + Main.workers.get(i-1).name);
             System.out.println("  CPF: " + Main.workers.get(i-1).cpf);
             System.out.println("  Telefone: " + Main.workers.get(i-1).telephone_number);
-            System.out.println("  Salario: " + Main.workers.get(i-1).salary);
+            System.out.println("  Salario: " + Main.workers.get(i-1).salary + " reais");
             System.out.println("  Funcao: " + Main.workers.get(i-1).function);
         }
     }

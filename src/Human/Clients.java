@@ -4,9 +4,9 @@ import Library.Main;
 
 import java.util.*;
 
-import static Library.Main.menu_principal;
 import static Library.Utils.*;
 import static Library.Validate.*;
+import static Menus.Main_Menu.menu_principal;
 
 public class Clients extends Human
 {
