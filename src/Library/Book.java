@@ -2,7 +2,7 @@ package Library;
 
 import java.util.*;
 
-import static Human.Clients.client_list;
+import static People.Clients.client_list;
 import static Library.Utils.clear;
 import static Library.Validate.*;
 import static Menus.Main_Menu.menu_principal;

@@ -1,12 +1,9 @@
 package Library;
 
-import Human.Clients;
-import Human.Workers;
+import People.Clients;
+import People.Workers;
 
-import static Human.Clients.*;
-import static Human.Workers.*;
 import static Library.Utils.*;
-import static Library.Book.*;
 import static Menus.Main_Menu.menu_principal;
 
 import java.util.*;

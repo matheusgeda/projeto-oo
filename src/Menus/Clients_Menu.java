@@ -2,8 +2,8 @@ package Menus;
 
 import java.util.Scanner;
 
-import static Human.Clients.client_list;
-import static Human.Clients.client_register;
+import static People.Clients.client_list;
+import static People.Clients.client_register;
 import static Library.Utils.clear;
 import static Menus.Main_Menu.menu_principal;
 

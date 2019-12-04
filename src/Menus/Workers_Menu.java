@@ -4,8 +4,8 @@ import Library.Main;
 
 import java.util.Scanner;
 
-import static Human.Workers.worker_register;
-import static Human.Workers.workers_list;
+import static People.Workers.worker_register;
+import static People.Workers.workers_list;
 import static Library.Utils.clear;
 import static Menus.Main_Menu.menu_principal;
 
